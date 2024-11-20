@@ -540,6 +540,11 @@ footer .col{
     margin-bottom: 20px;
 }
 
+footer .col a{
+    color:#465b52;
+    font-weight:600;
+}
+
 footer .logo{
     margin-bottom: 30px;
 }
@@ -673,6 +678,7 @@ text-align: center;
     button.normal{
         padding: 9px 25px;
     }
+    
 }
 
 
