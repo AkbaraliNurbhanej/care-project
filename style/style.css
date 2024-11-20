@@ -973,6 +973,10 @@ height:auto;
 #contact-details .details{
 width: 40%;
 }
+#contact-details .details a{
+text-decoration: none;
+color: #465b52;
+}
 
 #contact-details .details span,
 #from-details form{
