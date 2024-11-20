@@ -983,6 +983,9 @@ color: #465b52;
 font-size: 12px;
 }
 
+#from-details textarea{
+    resize: none;
+}
 #contact-details .details h2{
 font-size: 26px;
 line-height: 35px;
